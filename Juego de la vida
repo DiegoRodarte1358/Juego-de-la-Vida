@@ -1,8 +1,3 @@
-# Juego de la vida
-# - Juego del tipo "zero-players"
-# - Creado por el inglés John Conwry en 1970
-# - Simula el acceso, caida, y alternancia de seres vivos.
-
 # Reglas
 # - Si una célula que se encuentra viva tiene 0 o un vecino, muere por soledad para la siguiente generación. Donde los vecinos son las 8 celulas que lo rodean inmediatamente.
 # - Una célula viva que tiene dos o tres vecinos, sobrevive para la siguiente generación.
